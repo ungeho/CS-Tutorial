@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\ref\List2-1三項演算子.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\bin\Debug\net5.0\List2-1三項演算子.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\ref\List2-1三項演算子.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-1三項演算子\List2-1三項演算子\obj\Debug\net5.0\List2-1三項演算子.genruntimeconfig.cache

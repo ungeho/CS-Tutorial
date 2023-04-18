@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\ref\List1-1.ConsoleApp.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\bin\Debug\net5.0\List1-1.ConsoleApp.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\ref\List1-1.ConsoleApp.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-1.ConsoleApp\List1-1.ConsoleApp\obj\Debug\net5.0\List1-1.ConsoleApp.genruntimeconfig.cache

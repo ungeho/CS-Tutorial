@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\ref\List2-3CheckedSample.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\bin\Debug\net5.0\List2-3CheckedSample.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\ref\List2-3CheckedSample.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-3CheckedSample\List2-3CheckedSample\obj\Debug\net5.0\List2-3CheckedSample.genruntimeconfig.cache

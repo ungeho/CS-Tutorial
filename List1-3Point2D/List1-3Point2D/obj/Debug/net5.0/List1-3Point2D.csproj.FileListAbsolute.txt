@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\ref\List1-3Point2D.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\bin\Debug\net5.0\List1-3Point2D.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\ref\List1-3Point2D.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-3Point2D\List1-3Point2D\obj\Debug\net5.0\List1-3Point2D.genruntimeconfig.cache

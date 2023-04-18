@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\ref\List3-4enum.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\bin\Debug\net5.0\List3-4enum.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\ref\List3-4enum.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-4enum\List3-4enum\obj\Debug\net5.0\List3-4enum.genruntimeconfig.cache

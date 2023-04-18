@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\ref\List3-5Month.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\bin\Debug\net5.0\List3-5Month.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\ref\List3-5Month.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-5Month\List3-5Month\obj\Debug\net5.0\List3-5Month.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\ref\List3-3varArray.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\bin\Debug\net5.0\List3-3varArray.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\ref\List3-3varArray.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-3varArray\List3-3varArray\obj\Debug\net5.0\List3-3varArray.genruntimeconfig.cache

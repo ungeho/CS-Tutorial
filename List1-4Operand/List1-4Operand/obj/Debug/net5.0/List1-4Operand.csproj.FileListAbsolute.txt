@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\ref\List1-4Operand.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\bin\Debug\net5.0\List1-4Operand.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\ref\List1-4Operand.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List1-4Operand\List1-4Operand\obj\Debug\net5.0\List1-4Operand.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List3-5Month/1.0.0": {
+        "runtime": {
+          "List3-5Month.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List3-5Month/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

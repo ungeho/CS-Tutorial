@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\ref\List2-4Random.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\bin\Debug\net5.0\List2-4Random.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\ref\List2-4Random.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-4Random\List2-4Random\obj\Debug\net5.0\List2-4Random.genruntimeconfig.cache

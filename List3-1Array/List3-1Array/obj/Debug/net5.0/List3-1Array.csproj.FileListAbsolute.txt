@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\ref\List3-1Array.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\bin\Debug\net5.0\List3-1Array.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\ref\List3-1Array.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-1Array\List3-1Array\obj\Debug\net5.0\List3-1Array.genruntimeconfig.cache

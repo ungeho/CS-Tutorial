@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\ref\List2-2ショートサーキット.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\bin\Debug\net5.0\List2-2ショートサーキット.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\ref\List2-2ショートサーキット.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List2-2ショートサーキット\List2-2ショートサーキット\obj\Debug\net5.0\List2-2ショートサーキット.genruntimeconfig.cache

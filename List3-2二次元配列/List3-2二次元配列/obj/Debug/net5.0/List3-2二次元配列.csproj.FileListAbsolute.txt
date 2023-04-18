@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\ref\List3-2二次元配列.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\bin\Debug\net5.0\List3-2二次元配列.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\ref\List3-2二次元配列.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-2二次元配列\List3-2二次元配列\obj\Debug\net5.0\List3-2二次元配列.genruntimeconfig.cache

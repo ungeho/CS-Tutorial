@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List2-1三項演算子", "List2-1三項演算子\List2-1三項演算子.csproj", "{980B589A-9424-402D-8C07-5A8363EE8253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980B589A-9424-402D-8C07-5A8363EE8253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980B589A-9424-402D-8C07-5A8363EE8253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980B589A-9424-402D-8C07-5A8363EE8253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980B589A-9424-402D-8C07-5A8363EE8253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE16563-0D92-455F-A1CA-433761A57E6C}
+	EndGlobalSection
+EndGlobal
