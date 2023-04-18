@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List3-9タプルのメンバーへのアクセスと書き換え/1.0.0": {
+        "runtime": {
+          "List3-9タプルのメンバーへのアクセスと書き換え.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List3-9タプルのメンバーへのアクセスと書き換え/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\ref\List3-6前,匿名型.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\bin\Debug\net5.0\List3-6前,匿名型.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\ref\List3-6前,匿名型.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-6前,匿名型\List3-6前,匿名型\obj\Debug\net5.0\List3-6前,匿名型.genruntimeconfig.cache

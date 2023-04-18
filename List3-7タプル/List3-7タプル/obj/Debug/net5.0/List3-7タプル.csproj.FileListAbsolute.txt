@@ -1,0 +1,4 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-7タプル\List3-7タプル\obj\Debug\net5.0\List3-7タプル.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-7タプル\List3-7タプル\obj\Debug\net5.0\List3-7タプル.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-7タプル\List3-7タプル\obj\Debug\net5.0\List3-7タプル.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-7タプル\List3-7タプル\obj\Debug\net5.0\List3-7タプル.csproj.CoreCompileInputs.cache
