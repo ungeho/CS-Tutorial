@@ -13,3 +13,4 @@ C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-9タプルのメンバーへ�
 C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-9タプルのメンバーへのアクセスと書き換え\List3-9タプルのメンバーへのアクセスと書き換え\obj\Debug\net5.0\ref\List3-9タプルのメンバーへのアクセスと書き換え.dll
 C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-9タプルのメンバーへのアクセスと書き換え\List3-9タプルのメンバーへのアクセスと書き換え\obj\Debug\net5.0\List3-9タプルのメンバーへのアクセスと書き換え.pdb
 C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-9タプルのメンバーへのアクセスと書き換え\List3-9タプルのメンバーへのアクセスと書き換え\obj\Debug\net5.0\List3-9タプルのメンバーへのアクセスと書き換え.genruntimeconfig.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List3-9タプルのメンバーへのアクセスと書き換え\List3-9タプルのメンバーへのアクセスと書き換え\obj\Debug\net5.0\List3-9タプルのメンバーへのアクセスと書き換え.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>List4_9可変長引数を用いたMaxFunc</RootNamespace>
+  </PropertyGroup>
+
+</Project>

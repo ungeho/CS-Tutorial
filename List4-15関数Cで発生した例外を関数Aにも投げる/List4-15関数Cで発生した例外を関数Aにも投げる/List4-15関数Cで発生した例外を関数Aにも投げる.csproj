@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>List4_15関数Cで発生した例外を関数Aにも投げる</RootNamespace>
+  </PropertyGroup>
+
+</Project>

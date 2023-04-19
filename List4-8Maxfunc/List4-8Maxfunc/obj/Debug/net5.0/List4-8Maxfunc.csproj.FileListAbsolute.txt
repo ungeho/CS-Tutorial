@@ -1,0 +1,15 @@
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.exe
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.deps.json
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.runtimeconfig.json
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.runtimeconfig.dev.json
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.dll
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\ref\List4-8Maxfunc.dll
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\bin\Debug\net5.0\List4-8Maxfunc.pdb
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.AssemblyInfoInputs.cache
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.AssemblyInfo.cs
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.csproj.CoreCompileInputs.cache
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.dll
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\ref\List4-8Maxfunc.dll
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.pdb
+C:\Users\kunya\source\repos\List4-8Maxfunc\List4-8Maxfunc\obj\Debug\net5.0\List4-8Maxfunc.genruntimeconfig.cache

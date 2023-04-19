@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数/1.0.0": {
+        "runtime": {
+          "List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

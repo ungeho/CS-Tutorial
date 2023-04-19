@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数", "List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数\List4-14「例外をthrowする関数を呼び出す関数」を呼び出す関数.csproj", "{72FC2719-355F-45E1-B826-FFFAEC8932CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FC2719-355F-45E1-B826-FFFAEC8932CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FC2719-355F-45E1-B826-FFFAEC8932CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FC2719-355F-45E1-B826-FFFAEC8932CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FC2719-355F-45E1-B826-FFFAEC8932CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03FED6F9-A217-408E-B205-070D3BEC73CD}
+	EndGlobalSection
+EndGlobal
