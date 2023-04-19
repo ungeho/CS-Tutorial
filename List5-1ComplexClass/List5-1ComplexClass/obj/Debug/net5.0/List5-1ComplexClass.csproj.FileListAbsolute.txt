@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\ref\List5-1ComplexClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\bin\Debug\net5.0\List5-1ComplexClass.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\ref\List5-1ComplexClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List5-1ComplexClass\List5-1ComplexClass\obj\Debug\net5.0\List5-1ComplexClass.genruntimeconfig.cache
