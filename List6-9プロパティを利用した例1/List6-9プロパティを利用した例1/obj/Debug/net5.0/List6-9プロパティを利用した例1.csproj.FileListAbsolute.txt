@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\ref\List6-9プロパティを利用した例1.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\bin\Debug\net5.0\List6-9プロパティを利用した例1.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\ref\List6-9プロパティを利用した例1.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-9プロパティを利用した例1\List6-9プロパティを利用した例1\obj\Debug\net5.0\List6-9プロパティを利用した例1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\ref\List6-8見栄えの悪い例.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\bin\Debug\net5.0\List6-8見栄えの悪い例.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\ref\List6-8見栄えの悪い例.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-8見栄えの悪い例\List6-8見栄えの悪い例\obj\Debug\net5.0\List6-8見栄えの悪い例.genruntimeconfig.cache

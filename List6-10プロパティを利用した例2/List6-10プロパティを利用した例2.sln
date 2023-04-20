@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List6-10プロパティを利用した例2", "List6-10プロパティを利用した例2\List6-10プロパティを利用した例2.csproj", "{32A1CE6B-7E20-4E8E-BE3C-F6C474361C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A1CE6B-7E20-4E8E-BE3C-F6C474361C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A1CE6B-7E20-4E8E-BE3C-F6C474361C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A1CE6B-7E20-4E8E-BE3C-F6C474361C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A1CE6B-7E20-4E8E-BE3C-F6C474361C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C56CEE1-557D-42E3-AF09-D5CF92653273}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\ref\List6-10プロパティを利用した例2.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\bin\Debug\net5.0\List6-10プロパティを利用した例2.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\ref\List6-10プロパティを利用した例2.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-10プロパティを利用した例2\List6-10プロパティを利用した例2\obj\Debug\net5.0\List6-10プロパティを利用した例2.genruntimeconfig.cache

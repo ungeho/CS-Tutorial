@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List6-9プロパティを利用した例1/1.0.0": {
+        "runtime": {
+          "List6-9プロパティを利用した例1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List6-9プロパティを利用した例1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
