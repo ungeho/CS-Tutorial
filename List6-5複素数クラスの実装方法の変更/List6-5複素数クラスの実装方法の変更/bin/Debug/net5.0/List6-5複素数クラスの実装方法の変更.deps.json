@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List6-5複素数クラスの実装方法の変更/1.0.0": {
+        "runtime": {
+          "List6-5複素数クラスの実装方法の変更.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List6-5複素数クラスの実装方法の変更/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

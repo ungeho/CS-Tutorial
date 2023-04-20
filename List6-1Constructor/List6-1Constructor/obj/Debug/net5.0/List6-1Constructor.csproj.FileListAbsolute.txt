@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\ref\List6-1Constructor.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\bin\Debug\net5.0\List6-1Constructor.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\ref\List6-1Constructor.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-1Constructor\List6-1Constructor\obj\Debug\net5.0\List6-1Constructor.genruntimeconfig.cache

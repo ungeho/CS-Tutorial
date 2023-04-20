@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\ref\List6-2PersonClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\bin\Debug\net5.0\List6-2PersonClass.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\ref\List6-2PersonClass.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-2PersonClass\List6-2PersonClass\obj\Debug\net5.0\List6-2PersonClass.genruntimeconfig.cache

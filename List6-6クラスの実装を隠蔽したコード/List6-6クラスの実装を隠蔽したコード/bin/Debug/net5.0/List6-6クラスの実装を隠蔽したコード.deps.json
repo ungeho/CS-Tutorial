@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List6-6クラスの実装を隠蔽したコード/1.0.0": {
+        "runtime": {
+          "List6-6クラスの実装を隠蔽したコード.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List6-6クラスの実装を隠蔽したコード/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

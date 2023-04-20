@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List6-6クラスの実装を隠蔽したコード", "List6-6クラスの実装を隠蔽したコード\List6-6クラスの実装を隠蔽したコード.csproj", "{FD3DE48F-3D17-4469-81CF-3542168AEFA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3DE48F-3D17-4469-81CF-3542168AEFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3DE48F-3D17-4469-81CF-3542168AEFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3DE48F-3D17-4469-81CF-3542168AEFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3DE48F-3D17-4469-81CF-3542168AEFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F78F2C-F430-4A70-915F-E42238613BB4}
+	EndGlobalSection
+EndGlobal
