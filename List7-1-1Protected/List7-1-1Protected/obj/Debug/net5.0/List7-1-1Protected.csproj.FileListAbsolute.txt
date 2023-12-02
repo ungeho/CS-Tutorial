@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\ref\List7-1-1Protected.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\bin\Debug\net5.0\List7-1-1Protected.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\ref\List7-1-1Protected.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1-1Protected\List7-1-1Protected\obj\Debug\net5.0\List7-1-1Protected.genruntimeconfig.cache

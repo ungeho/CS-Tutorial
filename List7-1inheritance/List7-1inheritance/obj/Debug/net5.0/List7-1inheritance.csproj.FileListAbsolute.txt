@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\ref\List7-1inheritance.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\bin\Debug\net5.0\List7-1inheritance.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\ref\List7-1inheritance.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-1inheritance\List7-1inheritance\obj\Debug\net5.0\List7-1inheritance.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List7-5基底クラスのメンバーを隠蔽する/1.0.0": {
+        "runtime": {
+          "List7-5基底クラスのメンバーを隠蔽する.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List7-5基底クラスのメンバーを隠蔽する/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

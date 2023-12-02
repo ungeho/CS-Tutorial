@@ -1,0 +1,16 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\ref\List6-3デストラクター.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\bin\Debug\net5.0\List6-3デストラクター.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.csproj.AssemblyReference.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\ref\List6-3デストラクター.dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List6-3デストラクター\6-3デストラクター\obj\Debug\net5.0\List6-3デストラクター.genruntimeconfig.cache

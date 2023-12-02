@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List7-4as演算子の使用例/1.0.0": {
+        "runtime": {
+          "List7-4as演算子の使用例.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List7-4as演算子の使用例/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
