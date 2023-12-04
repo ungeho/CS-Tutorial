@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List7-6同名メソッド存在下での呼び出し/1.0.0": {
+        "runtime": {
+          "List7-6同名メソッド存在下での呼び出し.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List7-6同名メソッド存在下での呼び出し/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

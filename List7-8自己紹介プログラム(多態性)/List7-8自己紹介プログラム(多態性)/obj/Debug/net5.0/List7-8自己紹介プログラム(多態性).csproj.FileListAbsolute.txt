@@ -1,0 +1,15 @@
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).exe
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).deps.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).runtimeconfig.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).runtimeconfig.dev.json
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\ref\List7-8自己紹介プログラム(多態性).dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\bin\Debug\net5.0\List7-8自己紹介プログラム(多態性).pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).AssemblyInfoInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).AssemblyInfo.cs
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).csproj.CoreCompileInputs.cache
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\ref\List7-8自己紹介プログラム(多態性).dll
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).pdb
+C:\Users\kunya\Documents\GitHub\CS-Tutorial\List7-8自己紹介プログラム(多態性)\List7-8自己紹介プログラム(多態性)\obj\Debug\net5.0\List7-8自己紹介プログラム(多態性).genruntimeconfig.cache

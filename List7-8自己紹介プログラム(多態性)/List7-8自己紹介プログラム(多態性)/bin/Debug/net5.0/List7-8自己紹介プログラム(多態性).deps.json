@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "List7-8自己紹介プログラム(多態性)/1.0.0": {
+        "runtime": {
+          "List7-8自己紹介プログラム(多態性).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List7-8自己紹介プログラム(多態性)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
