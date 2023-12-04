@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace List7_5_1基底クラスのメンバー隠蔽を避ける
+namespace List7_5_1基底クラスのメンバー隠蔽
 {
     class Base
     {
@@ -50,5 +50,4 @@ namespace List7_5_1基底クラスのメンバー隠蔽を避ける
             b2.Test();
         }
     }
-
 }

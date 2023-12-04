@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("List7_5_1基底クラスのメンバー隠蔽を避ける")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("List7-5-1基底クラスのメンバー隠蔽")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("List7_5_1基底クラスのメンバー隠蔽を避ける")]
-[assembly: System.Reflection.AssemblyTitleAttribute("List7_5_1基底クラスのメンバー隠蔽を避ける")]
+[assembly: System.Reflection.AssemblyProductAttribute("List7-5-1基底クラスのメンバー隠蔽")]
+[assembly: System.Reflection.AssemblyTitleAttribute("List7-5-1基底クラスのメンバー隠蔽")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。

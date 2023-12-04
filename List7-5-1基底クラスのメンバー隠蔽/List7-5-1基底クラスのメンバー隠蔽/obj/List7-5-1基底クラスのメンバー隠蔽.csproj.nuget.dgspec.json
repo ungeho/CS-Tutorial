@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける.csproj": {}
+    "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける.csproj": {
+    "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける.csproj",
-        "projectName": "List7_5_1基底クラスのメンバー隠蔽を避ける",
-        "projectPath": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける.csproj",
+        "projectUniqueName": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽.csproj",
+        "projectName": "List7-5-1基底クラスのメンバー隠蔽",
+        "projectPath": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽.csproj",
         "packagesPath": "C:\\Users\\kunya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7_5_1基底クラスのメンバー隠蔽を避ける\\List7_5_1基底クラスのメンバー隠蔽を避ける\\obj\\",
+        "outputPath": "C:\\Users\\kunya\\Documents\\GitHub\\CS-Tutorial\\List7-5-1基底クラスのメンバー隠蔽\\List7-5-1基底クラスのメンバー隠蔽\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
